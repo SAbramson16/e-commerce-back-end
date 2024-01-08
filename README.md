@@ -10,7 +10,7 @@ The db folder holds the database schema. The models folder holds files for each 
 ## Usage
 Once the dependencies are installed and the proper files are sourced and seeded, the application will launch after entering "npm start" into the command line of the terminal. The applications routes will be tested in Insomnia. A video demonstration of the routes being tested is included.
  
-Follow the link for a video demonstration of api routes being tested in Insomnia: 
+Follow the link for a video demonstration of api routes being tested in Insomnia: https://drive.google.com/file/d/13-hXCbSuG644SrGwaKfBChC-d4MTzmUw/view
 
 ## Credits
 
